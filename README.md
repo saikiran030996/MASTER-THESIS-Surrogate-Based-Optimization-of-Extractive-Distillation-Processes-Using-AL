@@ -26,4 +26,6 @@ point (i.e., varying numbers of stages, reflux ratios, and
 flow rates of NMP).
 
 
-![](C:\Users\Kiran\Desktop\New folder\MASTER-THESIS-Surrogate-Based-Optimization-of-Extractive-Distillation-Processes-Using-AL\ED flow sheet.png)
+
+
+![img]()ED flow sheet.png)
