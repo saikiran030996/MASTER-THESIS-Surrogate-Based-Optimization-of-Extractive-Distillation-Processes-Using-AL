@@ -26,7 +26,7 @@ point (i.e., varying numbers of stages, reflux ratios, and
 flow rates of NMP).
 
 **ED Flow Sheet:**
-![Screenshot](ED flow sheet.png)
+![Screenshot](sodapdf-converted.jpg)
 
 •	Input variables – {No. of stages, Operating pressure, reflux ratio, Solvent to feed ratio}
 
@@ -39,3 +39,7 @@ flow rates of NMP).
 •	Surrogate model - Gaussian process regression
 
 •	Acquisition functions - Maximum probability of improvement and Upper confidence bound
+
+**Examples:**
+*Real function:                                       y = (x * 6 - 2) ** 2 * np.sin(x*12 – 4)*
+
