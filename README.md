@@ -24,8 +24,4 @@ and to collect the key performance indicators (i.e., product purity
 and reboiler heat duty) of the EDC at the convergence
 point (i.e., varying numbers of stages, reflux ratios, and
 flow rates of NMP).
-
-
-
-
-![img]()ED flow sheet.png)
+![](ED flow sheet.png)
