@@ -26,4 +26,4 @@ point (i.e., varying numbers of stages, reflux ratios, and
 flow rates of NMP).
 
 ## ED Flow Sheet
-![Screenshot](ED flow sheet.png)
+![Screenshot](sodapdf-converted.jpg)
