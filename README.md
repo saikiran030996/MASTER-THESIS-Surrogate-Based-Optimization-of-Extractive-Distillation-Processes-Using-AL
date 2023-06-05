@@ -45,4 +45,22 @@ flow rates of NMP).
 Real function:                              y =    (X x 6 - 2)^2 x np.sin(X x 12 - 4)  
 
 ![Screenshot](iterations1.jpg)
+
 ![Screenshot](iterations2.jpg)
+
+
+•	With four iterations Gaussian process regression can almost resemble the real function
+Requirements:
+
+**Software:** 
+
+•	Aspen plus process simulator
+
+Libraries:
+•	Scikit learn
+
+•	Scipy
+
+
+•	SMT (Surrogate modeling Toolbox)
+
