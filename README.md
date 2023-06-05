@@ -26,7 +26,7 @@ point (i.e., varying numbers of stages, reflux ratios, and
 flow rates of NMP).
 
 **ED Flow Sheet:**
-![Screenshot](sodapdf-converted.jpg)
+![Screenshot](ED flow sheet.png)
 
 •	Input variables – {No. of stages, Operating pressure, reflux ratio, Solvent to feed ratio}
 
