@@ -41,5 +41,4 @@ flow rates of NMP).
 •	Acquisition functions - Maximum probability of improvement and Upper confidence bound
 
 **Examples:**
-*Real function:                                       y = (x * 6 - 2) ** 2 * np.sin(x*12 – 4)*
-
+*Real function:                              y =    (X x 6 - 2)^2 x np.sin(X x 12 - 4)      
