@@ -25,5 +25,17 @@ and reboiler heat duty) of the EDC at the convergence
 point (i.e., varying numbers of stages, reflux ratios, and
 flow rates of NMP).
 
-## ED Flow Sheet
+**ED Flow Sheet:**
 ![Screenshot](sodapdf-converted.jpg)
+
+•	Input variables – {No. of stages, Operating pressure, reflux ratio, Solvent to feed ratio}
+
+•	Output variables- {reboiler heat duty, Product purity}
+
+•	16 initial data points
+
+•	No. of stages: [40,80]; Reflux ratio: [1,10]; Operating pressure: [3.5,6]; Solvent-to-feed ratio: [1,8]
+
+•	Surrogate model - Gaussian process regression
+
+•	Acquisition functions - Maximum probability of improvement and Upper confidence bound
